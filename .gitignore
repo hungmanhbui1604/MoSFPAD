@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+ckpts/
+data/
+results/
+wandb/
+config.yaml
